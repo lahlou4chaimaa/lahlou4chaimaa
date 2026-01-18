@@ -156,21 +156,7 @@
 
 <p align="left">👋 Hii, it's me Chaimaa<br><br> I am a motivated computer engineering student with a strong interest in learning, problem-solving, and building meaningful digital solutions. I enjoy challenging myself, improving my skills step by step, and turning ideas into clear and practical results. Curious, disciplined, and adaptable, I am always open to new opportunities that help me grow both technically and personally.</p>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lahlou4chaimaa/lahlou4chaimaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lahlou4chaimaa/lahlou4chaimaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lahlou4chaimaa/lahlou4chaimaa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lahlou4chaimaa/lahlou4chaimaa/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
